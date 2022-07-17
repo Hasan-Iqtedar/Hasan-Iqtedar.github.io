@@ -4,10 +4,10 @@ const Header = (props) => {
   return (
     <div className="header">
       <div className="container">
-        <a href="">Home</a>
-        <a href="">About</a>
-        <a href="">Skill</a>
-        <a href="#contact" to='/' >Contact</a>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
       </div>
     </div>
   );
