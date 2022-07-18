@@ -1,15 +1,5 @@
+import { importImages } from "../utils";
 import "../styles/skills.css";
-
-function importImages(regex) {
-  let images = [];
-  regex.keys().forEach((item) => {
-    images.push({
-      data: regex(item),
-      name: item.replace("./", "").split(".")[0],
-    });
-  });
-  return images;
-}
 
 const backendImages = importImages(
   require.context("../assets/backend", false, /\.(png)$/)
@@ -31,7 +21,7 @@ const Skills = (props) => {
       <div className="container">
         {backendImages.map((img) => {
           return (
-            <div className="skill-container">
+            <div key={img.name} className="skill-container">
               <div className="img-container">
                 <img src={img.data} alt={img.name} />
               </div>
@@ -45,7 +35,7 @@ const Skills = (props) => {
       <div className="container">
         {frontendImages.map((img) => {
           return (
-            <div className="skill-container">
+            <div key={img.name} className="skill-container">
               <div className="img-container">
                 <img src={img.data} alt={img.name} />
               </div>
@@ -59,7 +49,7 @@ const Skills = (props) => {
       <div className="container">
         {miscellaneousImages.map((img) => {
           return (
-            <div className="skill-container">
+            <div key={img.name} className="skill-container">
               <div className="img-container">
                 <img src={img.data} alt={img.name} />
               </div>
