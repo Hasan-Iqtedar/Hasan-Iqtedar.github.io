@@ -8,7 +8,7 @@ export const projects = [
   {
     name: "Members Only",
     code: "https://github.com/Hasan-Iqtedar/members-only",
-    live: "https://peaceful-tundra-42013.herokuapp.com/",
+    live: "https://peaceful-tundra-42013.herokuapp.com",
     img: images["members-only"],
   },
   {
@@ -26,55 +26,55 @@ export const projects = [
   {
     name: "Blogs App",
     code: "https://github.com/Hasan-Iqtedar/blog-client",
-    live: "https://hasan-iqtedar.github.io/blog-client/",
+    live: "https://hasan-iqtedar.github.io/blog-client",
     img: images["blogs-client"],
   },
   {
     name: "CV Application",
     code: "https://github.com/Hasan-Iqtedar/cv-application",
-    live: "https://hasan-iqtedar.github.io/cv-application/",
+    live: "https://hasan-iqtedar.github.io/cv-application",
     img: images["cv-application"],
   },
   {
     name: "Memory Card Game",
     code: "https://github.com/Hasan-Iqtedar/memory-card",
-    live: "https://hasan-iqtedar.github.io/memory-card/",
+    live: "https://hasan-iqtedar.github.io/memory-card",
     img: images["memory-card"],
   },
   {
     name: "Shop Application",
     code: "https://github.com/Hasan-Iqtedar/shopping-cart",
-    live: "https://hasan-iqtedar.github.io/shopping-cart/",
+    live: "https://hasan-iqtedar.github.io/shopping-cart",
     img: images["shop-app"],
   },
   {
     name: "Etch-a-Sketch",
     code: "https://github.com/Hasan-Iqtedar/etch-a-sketch",
-    live: "https://hasan-iqtedar.github.io/etch-a-sketch/",
+    live: "https://hasan-iqtedar.github.io/etch-a-sketch",
     img: images["etch-a-sketch"],
   },
   {
     name: "Calculator",
     code: "https://github.com/Hasan-Iqtedar/calculator",
-    live: "https://hasan-iqtedar.github.io/calculator/",
+    live: "https://hasan-iqtedar.github.io/calculator",
     img: images["calculator"],
   },
   {
     name: "Tic Tac Toe",
     code: "https://github.com/Hasan-Iqtedar/tic-tac-toe",
-    live: "https://hasan-iqtedar.github.io/tic-tac-toe/",
+    live: "https://hasan-iqtedar.github.io/tic-tac-toe",
     img: images["tic-tac-toe"],
   },
   {
     name: "Weather App",
     code: "https://github.com/Hasan-Iqtedar/weather-app",
-    live: "https://hasan-iqtedar.github.io/weather-app/",
+    live: "https://hasan-iqtedar.github.io/weather-app",
     img: images["weather-app"],
   },
   {
     name: "Battleship",
     code: "https://github.com/Hasan-Iqtedar/battleship",
-    live: "https://hasan-iqtedar.github.io/battleship/",
+    live: "https://hasan-iqtedar.github.io/battleship",
     img: images["battleship"],
   },
   {
@@ -86,7 +86,7 @@ export const projects = [
   {
     name: "ToDo List",
     code: "https://github.com/Hasan-Iqtedar/todo-list",
-    live: "https://hasan-iqtedar.github.io/todo-list/",
+    live: "https://hasan-iqtedar.github.io/todo-list",
     img: images["todo-list"],
   },
 ];
