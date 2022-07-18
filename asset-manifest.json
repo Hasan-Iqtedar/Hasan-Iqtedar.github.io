@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hasan-iqtedar.github.io/static/css/main.2ac704bc.css",
-    "main.js": "/hasan-iqtedar.github.io/static/js/main.8c4db5e5.js",
+    "main.js": "/hasan-iqtedar.github.io/static/js/main.486b0534.js",
     "static/media/memory-card.png": "/hasan-iqtedar.github.io/static/media/memory-card.2e8ebd7e0deb3f649082.png",
     "static/media/weather-app.png": "/hasan-iqtedar.github.io/static/media/weather-app.356e45bfa9469f3e90d0.png",
     "static/media/postgres.png": "/hasan-iqtedar.github.io/static/media/postgres.205c6e1cf88f5fb991e4.png",
@@ -28,10 +28,10 @@
     "static/media/express.png": "/hasan-iqtedar.github.io/static/media/express.034db57c567c0257d534.png",
     "index.html": "/hasan-iqtedar.github.io/index.html",
     "main.2ac704bc.css.map": "/hasan-iqtedar.github.io/static/css/main.2ac704bc.css.map",
-    "main.8c4db5e5.js.map": "/hasan-iqtedar.github.io/static/js/main.8c4db5e5.js.map"
+    "main.486b0534.js.map": "/hasan-iqtedar.github.io/static/js/main.486b0534.js.map"
   },
   "entrypoints": [
     "static/css/main.2ac704bc.css",
-    "static/js/main.8c4db5e5.js"
+    "static/js/main.486b0534.js"
   ]
 }
