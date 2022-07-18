@@ -5,14 +5,9 @@
     scroll-margin-top: 20vh;
 }
 
-#projects h1 {
-    /* font-size: 40px; */
-}
-
 #projects .container {
     display: grid;
     grid-template-columns: 300px;
-    /* justify-content: space-evenly; */
     row-gap: 50px;
 }
 
