@@ -1,0 +1,25 @@
+#contact {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 5vw;
+    scroll-margin-top: 20vh;
+}
+
+#contact .links-container {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#contact .links-container a {
+    color: #C9D9C2;
+    font-size: 35px;
+    text-decoration-line: none;
+}
+
+#contact .links-container a:hover {
+    color: #9dac97;
+    text-decoration-line: underline;
+}
