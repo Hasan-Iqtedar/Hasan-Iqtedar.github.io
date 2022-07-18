@@ -2,7 +2,7 @@
   "name": "hasan-iqtedar.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Hasan-Iqtedar.github.io/hasan-iqtedar.github.io",
+  "homepage": "http://hasan-iqtedar.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
