@@ -1,14 +1,58 @@
 #home {
     width: 80%;
-    margin: 30vh auto 20vw auto;
+    margin: 25vh auto 20vw auto;
     scroll-margin-top: 30vh;
 }
 
 #home h1 {
-    font-size: 9vw;
+    /* font-size: 40px; */
 }
 
 #home h2 {
     color: white;
-    font-size: 4vw;
+    font-size: 15px;
+}
+
+@media (min-width: 400px) {
+    #home h1 {
+        font-size: 40px;
+    }
+    
+    #home h2 {
+        color: white;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 600px) {
+    #home h1 {
+        font-size: 60px;
+    }
+    
+    #home h2 {
+        color: white;
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 800px) {
+    #home h1 {
+        font-size: 80px;
+    }
+    
+    #home h2 {
+        color: white;
+        font-size: 35px;
+    }
+}
+
+@media (min-width: 1000px) {
+    #home h1 {
+        font-size: 100px;
+    }
+    
+    #home h2 {
+        color: white;
+        font-size: 40px;
+    }
 }
