@@ -1,6 +1,8 @@
 # Personal Website
 
-## To Run Locally
+![image](https://user-images.githubusercontent.com/62274492/179518672-94eb0427-d048-4494-a2e8-5d9895e23ee5.png)
+
+### To Run Locally
 
 ```bash
 # Download or clone
