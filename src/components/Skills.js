@@ -1,15 +1,15 @@
-import { importImages } from "../utils";
+import { importImagesArray } from "../utils";
 import "../styles/skills.css";
 
-const backendImages = importImages(
+const backendImages = importImagesArray(
   require.context("../assets/backend", false, /\.(png)$/)
 );
 
-const frontendImages = importImages(
+const frontendImages = importImagesArray(
   require.context("../assets/frontend", false, /\.(png)$/)
 );
 
-const miscellaneousImages = importImages(
+const miscellaneousImages = importImagesArray(
   require.context("../assets/miscellaneous", false, /\.(png)$/)
 );
 
