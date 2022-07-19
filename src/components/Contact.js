@@ -21,7 +21,7 @@ const Contact = (props) => {
           linkedin
         </a>
         <a
-          href="https://drive.google.com/file/d/1v3JdU42W2QLMLz4UoTb5N1nAf3u8pFvk/view?usp=sharing"
+          href="https://drive.google.com/file/d/1X_PTJpiNUQuWAdl5sLtt0oI53RablSM4/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >
