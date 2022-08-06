@@ -8,6 +8,8 @@
 ```bash
 # Download or clone
 # Then in the project directory
+npm install
+
 npm start
 # Open http://localhost:3000
 ```
